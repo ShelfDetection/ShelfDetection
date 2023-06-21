@@ -1,4 +1,4 @@
-### This program uses detectnet to identify objects on your shelf and notifies you when you are out of an item
+### This program uses detectnet/ssd-mobilenet-v2 to identify objects on your shelf and notifies you when you are out of an item
 
 Setup: Change lines 19-21 to your email, password and who you want to send the message to(this will be the notification that something is taken off of your shelf.
 
