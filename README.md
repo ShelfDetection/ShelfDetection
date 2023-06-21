@@ -21,7 +21,9 @@ How to run the program:
   The new changes to gmail will not allow for third party apps to log into your account by default
 
   Step 1: enable 2-factor authentication for your google account
+  
   Step 2: And then in the 2-factor authentication section of your google account go to app passwords and create a new password for gmail
+  
   Step 3: Use the app password generated as your password in line 20 of test.py
 
 
