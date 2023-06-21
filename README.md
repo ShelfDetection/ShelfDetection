@@ -12,9 +12,13 @@ How to run the program:
   If you want to run from a usb camera to an mp4 file run this command here: python3 test.py /dev/video0 output.mp4
 
   If you want to run from an image run this command: python3 test.py [image path] [output path]
+  
     For example: python3 test.py shelf.png shelf_output.png
+    
 ### Optional Terminal Arguments(See code for further details):
+
   --overlay
+  
   --threshold
   
 ### Having trouble with Gmail not letting you log in?
