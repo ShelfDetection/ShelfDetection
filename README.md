@@ -30,6 +30,9 @@ How to run the program:
   
   Step 3: Use the app password generated as your password in line 20 of test.py
 
+### Example Video of the program working found in IMG_4501.mov
+
+
 
 <!--
 **ShelfDetection/ShelfDetection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
