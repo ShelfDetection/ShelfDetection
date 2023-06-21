@@ -6,7 +6,8 @@ How to run the program:
   This program was created for a jetson nano but may be used on other devices however, modifications will need to be made
 
   Running from a USB camera:  python3 test.py /dev/video0 rtp://[Your IP here]:1234
-    When running from a Camera follow these steps for camera streaming: https://github.com/dusty-nv/jetson-inference/blob/master/docs/aux-streaming.md#v4l2-cameras
+  
+  When running from a Camera follow these steps for camera streaming: https://github.com/dusty-nv/jetson-inference/blob/master/docs/aux-streaming.md#v4l2-cameras
 
   If you want to run from a usb camera to an mp4 file run this command here: python3 test.py /dev/video0 output.mp4
 
