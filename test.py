@@ -87,7 +87,7 @@ while True:
         if(example_shelf[i] not in detected_names):
             if(example_shelf[i] not in objects_out):
                 objects_out.append(example_shelf[i])
-		if(example_shelf[i][len(example_shelf[i])] == "s"):
+		if(example_shelf[i][len(example_shelf[i])-1] == "s"):
                     notify(f"You are out of {example_shelf[i]}es")
                 else:
                     notify(f"You are out of {example_shelf[i]}s")
